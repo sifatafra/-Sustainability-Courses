@@ -7,3 +7,7 @@ body {
     filter: brightness(50%);
 
 }
+
+.card-text-color {
+    color: #777777;
+}
